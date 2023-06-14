@@ -1,0 +1,1 @@
+python -m nuitka --follow-imports src/main.py
